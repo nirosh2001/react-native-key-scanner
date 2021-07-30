@@ -1,5 +1,5 @@
 {
-  "name": "react-native-key-scanner",
+  "name": "@nois/react-native-key-scanner",
   "version": "0.2.2",
   "description": "barcode scanner by key event",
   "main": "lib/commonjs/index",
@@ -36,7 +36,10 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/lam-huynh/react-native-key-scanner",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lam-huynh/react-native-key-scanner.git"
+  },
   "author": "lam-huynh <lam.huynh@newoceaninfosys.com> (https://github.com/lam-huynh)",
   "license": "MIT",
   "bugs": {
@@ -149,5 +152,8 @@
         }
       ]
     ]
+  },
+  "directories": {
+    "example": "example"
   }
 }
