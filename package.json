@@ -36,12 +36,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lam-huynh/react-native-key-scanner.git"
+    "url": "git+https://github.com/nirosh2001/react-native-key-scanner.git"
   },
   "author": "lam-huynh <lam.huynh@newoceaninfosys.com> (https://github.com/lam-huynh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lam-huynh/react-native-key-scanner/issues"
+    "url": "https://github.com/nirosh2001/react-native-key-scanner.git/issues"
   },
   "homepage": "https://github.com/lam-huynh/react-native-key-scanner#readme",
   "publishConfig": {
