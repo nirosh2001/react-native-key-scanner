@@ -1,5 +1,5 @@
 {
-  "name": "@nois/react-native-key-scanner",
+  "name": "react-native-key-scanner-barcode",
   "version": "0.2.2",
   "description": "barcode scanner by key event",
   "main": "lib/commonjs/index",
